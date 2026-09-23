@@ -4,4 +4,4 @@ As a Computer Science undergraduate at BINUS University specializing in Game Dev
 
 | Pixel Mines | Running Out Of Time | 
 | --------- | --------- | 
-| ![screenshot]([url](https://drive.google.com/file/d/1q-KXuCkvHd5bu3V9gyo3oSMck6cDE0Ye/view?usp=sharing)) | ![screenshot](url) | | description text | description text | | [Docs](link) | [Docs](link) | 
+| ![screenshot]() | ![screenshot](url) | | description text | description text | | [Docs](link) | [Docs](link) | 
