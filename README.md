@@ -4,4 +4,4 @@ As a Computer Science undergraduate at BINUS University specializing in Game Dev
 
 | Pixel Mines | Running Out Of Time | 
 | --------- | --------- | 
-| ![screenshot](Butterfly.gif) | ![screenshot](url) | | description text | description text | | [Docs](link) | [Docs](link) | 
+| ![screenshot](https://github.com/herawisp/herawisp/blob/main/Butterfly.gif) | ![screenshot](url) | | description text | description text | | [Docs](link) | [Docs](link) | 
