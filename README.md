@@ -5,5 +5,5 @@ As a Computer Science undergraduate at BINUS University specializing in Game Dev
 | Pixel Mines | Running Out Of Time |
 | --------- | --------- |
 | ![screenshot](https://raw.githubusercontent.com/herawisp/herawisp/main/PixelMines.gif) | ![screenshot](https://raw.githubusercontent.com/herawisp/herawisp/main/RunningOutOfTime.gif) |
-| description text | description text |
+| A 2D procedurally generated cave exploration and mining game built in Unity. Sole programmer and artist — handled everything from the procedural generation to character animations. | A serious game exploring time-management challenges, built for GEMASTIK 2026. Served as team lead and lead programmer, directing both technical execution and project management. |
 | [Docs](link) | [Docs](link) |
