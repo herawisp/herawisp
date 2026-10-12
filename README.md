@@ -10,5 +10,5 @@ As a Computer Science undergraduate at BINUS University specializing in Game Dev
 
 | B00!KIES | Gecko Of All Time |
 | --------- | --------- |
-| ![screenshot](https://raw.githubusercontent.com/herawisp/herawisp/main/GIF/B00!KIES GIF.gif) | ![screenshot](https://raw.githubusercontent.com/herawisp/herawisp/main/RunningOutOfTime.gif) |
+| ![screenshot](https://raw.githubusercontent.com/herawisp/herawisp/main/GIF/B00!KIES.gif) | ![screenshot](https://raw.githubusercontent.com/herawisp/herawisp/main/RunningOutOfTime.gif) |
 | A 2D procedurally generated cave exploration and mining game built in Unity. Sole programmer and artist, handled everything from the procedural generation to character animations. | A serious game exploring time-management challenges, built for GEMASTIK 2026. Served as team lead and lead programmer, directing both technical execution and project management. |
