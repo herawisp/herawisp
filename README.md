@@ -50,14 +50,34 @@ As a Computer Science undergraduate at BINUS University specializing in Game Dev
   </tr>
 </table>
 
-## 📂 Other Project
+<h2>📂 Other Project</h2>
 
-| Project | Description | Repository |
-| :---: | --- | :---: |
-| **Running Out Of Time** | Short description of the game, with a **bold highlight** for the key feature. | <a href="https://github.com/herawisp/PROJECT-ONE"><img src="https://img.shields.io/badge/DOCUMENTATION-007BFF?style=for-the-badge" alt="Documentation"></a><br><a href="https://YOUR-USERNAME.itch.io/project-one"><img src="https://img.shields.io/badge/PLAY_NOW-DC3545?style=for-the-badge" alt="Play Now"></a> |
-| **Wall of Doom** | Simple **web project** built with HTML, CSS, and JavaScript. | <a href="https://github.com/herawisp/PROJECT-TWO"><img src="https://img.shields.io/badge/DOCUMENTATION-007BFF?style=for-the-badge" alt="Documentation"></a><br><a href="https://herawisp.github.io/PROJECT-TWO"><img src="https://img.shields.io/badge/PLAY_NOW-DC3545?style=for-the-badge" alt="Play Now"></a> |
-| **Hop Till You Drop** | Inventory and item management system with **database integration**. | <a href="https://github.com/herawisp/PROJECT-THREE"><img src="https://img.shields.io/badge/DOCUMENTATION-007BFF?style=for-the-badge" alt="Documentation"></a> |
-
+<table width="100%">
+  <tr>
+    <th width="20%">Project</th>
+    <th width="50%">Description</th>
+    <th width="15%">Documentation</th>
+    <th width="15%">Itch.io</th>
+  </tr>
+  <tr>
+    <td align="center"><b>Running Out Of Time</b></td>
+    <td>Short description of the game, with a <b>bold highlight</b> for the key feature.</td>
+    <td align="center"><a href="https://github.com/herawisp/PROJECT-ONE"><img src="https://img.shields.io/badge/DOCUMENTATION-007BFF?style=for-the-badge" alt="Documentation"></a></td>
+    <td align="center"><a href="https://YOUR-USERNAME.itch.io/project-one"><img src="https://img.shields.io/badge/PLAY_NOW-DC3545?style=for-the-badge" alt="Play Now"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Wall of Doom</b></td>
+    <td>Simple <b>web project</b> built with HTML, CSS, and JavaScript.</td>
+    <td align="center"><a href="https://github.com/herawisp/PROJECT-TWO"><img src="https://img.shields.io/badge/DOCUMENTATION-007BFF?style=for-the-badge" alt="Documentation"></a></td>
+    <td align="center"><a href="https://herawisp.github.io/PROJECT-TWO"><img src="https://img.shields.io/badge/PLAY_NOW-DC3545?style=for-the-badge" alt="Play Now"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Hop Till You Drop</b></td>
+    <td>Inventory and item management system with <b>database integration</b>.</td>
+    <td align="center"><a href="https://github.com/herawisp/PROJECT-THREE"><img src="https://img.shields.io/badge/DOCUMENTATION-007BFF?style=for-the-badge" alt="Documentation"></a></td>
+    <td align="center"></td>
+  </tr>
+</table>
 <br><br>
 
 <img src="https://raw.githubusercontent.com/herawisp/herawisp/main/ArtStrip/RobloxProjectsBannerBouncy.gif" width="100%" alt="My Unity Games"> 
