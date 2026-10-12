@@ -88,8 +88,8 @@ As a Computer Science undergraduate at BINUS University specializing in Game Dev
     <th width="50%">Island Survival</th>
   </tr>
   <tr>
-    <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/GIF/PixelMines.gif" width="100%" alt="Pixel Mines screenshot"></td>
-    <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/GIF/B00!KIES.gif" width="100%" alt="B00!KIES screenshot"></td>
+    <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/GIF/TroopBattler.gif" width="100%" alt="Pixel Mines screenshot"></td>
+    <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/GIF/IslandSurvival.gif" width="100%" alt="B00!KIES screenshot"></td>
   </tr>
   <tr>
     <td width="50%" valign="top">A 2D procedurally generated cave exploration and mining game built in Unity. Sole programmer and artist, handled everything from the procedural generation to character animations.</td>
