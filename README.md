@@ -4,7 +4,7 @@ As a Computer Science undergraduate at BINUS University specializing in Game Dev
 
 <img src="https://raw.githubusercontent.com/herawisp/herawisp/main/ArtStrip/UnityProjectsBannerBouncy.gif" width="100%" alt="My Unity Games">
 
-<table>
+<table width="100%">
   <tr>
     <th width="50%">Pixel Mines</th>
     <th width="50%">B00!KIES</th>
@@ -27,7 +27,7 @@ As a Computer Science undergraduate at BINUS University specializing in Game Dev
   </tr>
 </table>
 
-<table>
+<table width="100%">
   <tr>
     <th width="50%">Flying Butter</th>
     <th width="50%">Gecko Of All Time</th>
@@ -82,7 +82,7 @@ As a Computer Science undergraduate at BINUS University specializing in Game Dev
 
 <img src="https://raw.githubusercontent.com/herawisp/herawisp/main/ArtStrip/RobloxProjectsBannerBouncy.gif" width="100%" alt="My Unity Games"> 
 
-<table>
+<table width="100%">
   <tr>
     <th width="50%">Troop Battler</th>
     <th width="50%">Island Survival</th>
