@@ -12,7 +12,7 @@ As a Computer Science undergraduate at BINUS University specializing in Game Dev
 
 | Flying Butter | Gecko Of All Time |
 | --------- | --------- |
-| ![screenshot](https://raw.githubusercontent.com/herawisp/herawisp/main/GIF/FlyingButter.gif) | ![screenshot](https://raw.githubusercontent.com/herawisp/herawisp/main/GeckoOfAllTime.gif) |
+| ![screenshot](https://raw.githubusercontent.com/herawisp/herawisp/main/GIF/FlyingButter.gif) | ![screenshot](https://raw.githubusercontent.com/herawisp/herawisp/main/GIF/GeckoOfAllTime.gif) |
 | A 2D procedurally generated cave exploration and mining game built in Unity. Sole programmer and artist, handled everything from the procedural generation to character animations. | A serious game exploring time-management challenges, built for GEMASTIK 2026. Served as team lead and lead programmer, directing both technical execution and project management. |
 
 <img src="https://raw.githubusercontent.com/herawisp/herawisp/main/ArtStrip/SeriousGameProjectsBannerBouncy.gif" width="100%" alt="My Unity Games"> 
