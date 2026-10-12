@@ -18,12 +18,12 @@ As a Computer Science undergraduate at BINUS University specializing in Game Dev
     <td width="50%" valign="top">A 2D pixel-art auto-battler dungeon crawler built in Unity, where you clear procedurally regenerated floors and gamble for card packs to build a team of butterflies with synergistic abilities.</td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/herawisp/PIXEL-MINES-REPO"><img src="https://img.shields.io/badge/Documentation-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Documentation"></a></td>
-    <td width="50%"><a href="https://github.com/herawisp/BOOKIES-REPO"><img src="https://img.shields.io/badge/Documentation-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Documentation"></a></td>
+    <td width="50%"><a href="https://github.com/herawisp/pixel-mines"><img src="https://img.shields.io/badge/Documentation-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Documentation"></a></td>
+    <td width="50%"><a href="https://github.com/herawisp/B00KIES"><img src="https://img.shields.io/badge/Documentation-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Documentation"></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://YOUR-USERNAME.itch.io/pixel-mines"><img src="https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play on itch.io"></a></td>
-    <td width="50%"><a href="https://YOUR-USERNAME.itch.io/bookies"><img src="https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play on itch.io"></a></td>
+    <td width="50%"><a href="https://herawisp.itch.io/pixel-mines"><img src="https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play on itch.io"></a></td>
+    <td width="50%"><a href="https://herawisp.itch.io/bookies"><img src="https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play on itch.io"></a></td>
   </tr>
 </table>
 
@@ -41,12 +41,12 @@ As a Computer Science undergraduate at BINUS University specializing in Game Dev
     <td width="50%" valign="top">Gecko Of All Time is a roguelike shoot ‘em up video game. Player controls a geck while battling continuous waves of monsters, aiming to survive the battle for as long as possible.</td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/herawisp/FLYING-BUTTER-REPO"><img src="https://img.shields.io/badge/Documentation-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Documentation"></a></td>
-    <td width="50%"><a href="https://github.com/herawisp/GECKO-REPO"><img src="https://img.shields.io/badge/Documentation-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Documentation"></a></td>
+    <td width="50%"><a href="https://github.com/herawisp/boid-attack"><img src="https://img.shields.io/badge/Documentation-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Documentation"></a></td>
+    <td width="50%"><a href="https://github.com/jvn-tix/GeckoOfAllTime"><img src="https://img.shields.io/badge/Documentation-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Documentation"></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://YOUR-USERNAME.itch.io/flying-butter"><img src="https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play on itch.io"></a></td>
-    <td width="50%"><a href="https://YOUR-USERNAME.itch.io/gecko-of-all-time"><img src="https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play on itch.io"></a></td>
+    <td width="50%"><a href="https://herawisp.itch.io/flying-butter"><img src="https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play on itch.io"></a></td>
+    <td width="50%"><a href="https://exaltedartix.itch.io/gecko-of-all-time"><img src="https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play on itch.io"></a></td>
   </tr>
 </table>
 
@@ -55,27 +55,18 @@ As a Computer Science undergraduate at BINUS University specializing in Game Dev
 <table width="100%">
   <tr>
     <th width="20%">Project</th>
-    <th width="50%">Description</th>
-    <th width="15%">Documentation</th>
-    <th width="15%">Itch.io</th>
-  </tr>
-  <tr>
-    <td align="center"><b>Running Out Of Time</b></td>
-    <td>A serious game exploring time-management challenges, built for GEMASTIK 2026.</td>
-    <td align="center"><a href="https://github.com/herawisp/PROJECT-ONE"><img src="https://img.shields.io/badge/DOCUMENTATION-007BFF?style=for-the-badge" alt="Documentation"></a></td>
-    <td align="center"><a href="https://YOUR-USERNAME.itch.io/project-one"><img src="https://img.shields.io/badge/PLAY_NOW-DC3545?style=for-the-badge" alt="Play Now"></a></td>
+    <th width="60%">Description</th>
+    <th width="20%">Itch.io</th>
   </tr>
   <tr>
     <td align="center"><b>Wall of Doom</b></td>
     <td>A Hole in the Wall-style game where you race to slip through the gap in each oncoming wall before it knocks you off the platform.</td>
-    <td align="center"><a href="https://github.com/herawisp/PROJECT-TWO"><img src="https://img.shields.io/badge/DOCUMENTATION-007BFF?style=for-the-badge" alt="Documentation"></a></td>
-    <td align="center"><a href="https://herawisp.github.io/PROJECT-TWO"><img src="https://img.shields.io/badge/PLAY_NOW-DC3545?style=for-the-badge" alt="Play Now"></a></td>
+    <td align="center"><a href="https://herawisp.itch.io/wall-of-doom"><img src="https://img.shields.io/badge/PLAY_NOW-DC3545?style=for-the-badge" alt="Play Now"></a></td>
   </tr>
   <tr>
     <td align="center"><b>Hop Till You Drop</b></td>
     <td>An arcade dodging game where you leap left or right to avoid a constant barrage of incoming asteroids and survive as long as you can.</td>
-    <td align="center"><a href="https://github.com/herawisp/PROJECT-THREE"><img src="https://img.shields.io/badge/DOCUMENTATION-007BFF?style=for-the-badge" alt="Documentation"></a></td>
-    <td align="center"><a href="https://herawisp.github.io/PROJECT-TWO"><img src="https://img.shields.io/badge/PLAY_NOW-DC3545?style=for-the-badge" alt="Play Now"></a></td>
+    <td align="center"><a href="https://herawisp.itch.io/hop-till-you-drop"><img src="https://img.shields.io/badge/PLAY_NOW-DC3545?style=for-the-badge" alt="Play Now"></a></td>
   </tr>
 </table>
 <br><br>
