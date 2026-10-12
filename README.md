@@ -106,17 +106,17 @@ As a Computer Science undergraduate at BINUS University specializing in Game Dev
 <table width="100%">
   <tr>
     <th width="20%">Project</th>
-    <th width="60%">Description</th>
+    <th width="60%">Description<img src="https://raw.githubusercontent.com/herawisp/herawisp/main/ArtStrip/spacer.png" width="2000" height="1" alt=""></th>
     <th width="20%">Roblox</th>
   </tr>
   <tr>
     <td align="center"><b>Mad Shooter</b></td>
     <td>Short description of the game, with a <b>bold highlight</b> for the key feature.</td>
-    <td align="center"><a href="https://www.roblox.com/games/YOUR-RUNNING-OUT-OF-TIME-ID"><img src="https://img.shields.io/badge/Play_on-Roblox-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Play on Roblox"></a></td>
+    <td align="center"><a href="https://www.roblox.com/games/YOUR-MAD-SHOOTER-ID"><img src="https://img.shields.io/badge/Play_on-Roblox-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Play on Roblox"></a></td>
   </tr>
   <tr>
     <td align="center"><b>Egg Defender</b></td>
     <td>Short description of the game, with a <b>bold highlight</b> for the key feature.</td>
-    <td align="center"><a href="https://www.roblox.com/games/YOUR-WALL-OF-DOOM-ID"><img src="https://img.shields.io/badge/Play_on-Roblox-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Play on Roblox"></a></td>
+    <td align="center"><a href="https://www.roblox.com/games/YOUR-EGG-DEFENDER-ID"><img src="https://img.shields.io/badge/Play_on-Roblox-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Play on Roblox"></a></td>
   </tr>
 </table>
