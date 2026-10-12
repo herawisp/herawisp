@@ -15,7 +15,7 @@ As a Computer Science undergraduate at BINUS University specializing in Game Dev
   </tr>
   <tr>
     <td width="50%" valign="top">A 2D procedurally generated cave exploration and mining game built in Unity. Sole programmer and artist, handled everything from the procedural generation to character animations.</td>
-    <td width="50%" valign="top">A serious game exploring time-management challenges, built for GEMASTIK 2026. Served as team lead and lead programmer, directing both technical execution and project management.</td>
+    <td width="50%" valign="top">A 2D pixel-art auto-battler dungeon crawler built in Unity, where you clear procedurally regenerated floors and gamble for card packs to build a team of butterflies with synergistic abilities.</td>
   </tr>
   <tr>
     <td width="50%"><a href="https://github.com/herawisp/PIXEL-MINES-REPO"><img src="https://img.shields.io/badge/Documentation-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Documentation"></a></td>
@@ -38,7 +38,7 @@ As a Computer Science undergraduate at BINUS University specializing in Game Dev
   </tr>
   <tr>
     <td width="50%" valign="top">A 2D pixel-art auto-battler dungeon crawler built in Unity, where you clear procedurally regenerated floors and gamble for card packs to build a team of butterflies with synergistic abilities.</td>
-    <td width="50%" valign="top">A serious game exploring time-management challenges, built for GEMASTIK 2026. Served as team lead and lead programmer, directing both technical execution and project management.</td>
+    <td width="50%" valign="top">Gecko Of All Time is a roguelike shoot ‘em up video game. Player controls a geck while battling continuous waves of monsters, aiming to survive the battle for as long as possible.</td>
   </tr>
   <tr>
     <td width="50%"><a href="https://github.com/herawisp/FLYING-BUTTER-REPO"><img src="https://img.shields.io/badge/Documentation-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Documentation"></a></td>
@@ -92,8 +92,8 @@ As a Computer Science undergraduate at BINUS University specializing in Game Dev
     <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/GIF/IslandSurvival.gif" width="100%" alt="B00!KIES screenshot"></td>
   </tr>
   <tr>
-    <td width="50%" valign="top">A 2D procedurally generated cave exploration and mining game built in Unity. Sole programmer and artist, handled everything from the procedural generation to character animations.</td>
-    <td width="50%" valign="top">A serious game exploring time-management challenges, built for GEMASTIK 2026. Served as team lead and lead programmer, directing both technical execution and project management.</td>
+    <td width="50%" valign="top">A lane-based Roblox strategy game where you deploy troops into your chosen lane to defeat the enemy, and each round you pick a card whose perks help you but also strengthen your opponent.</td>
+    <td width="50%" valign="top">A Roblox survival game set on an island, where you gather resources and fight off waves of zombies to make it through each day.</td>
   </tr>
   <tr>
     <td width="50%"><a href="https://github.com/herawisp/PIXEL-MINES-REPO"><img src="https://img.shields.io/badge/Documentation-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Documentation"></a></td>
