@@ -88,19 +88,15 @@ As a Computer Science undergraduate at BINUS University specializing in Game Dev
     <th width="50%">Island Survival</th>
   </tr>
   <tr>
-    <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/GIF/TroopBattler.gif" width="100%" alt="Pixel Mines screenshot"></td>
-    <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/GIF/IslandSurvival.gif" width="100%" alt="B00!KIES screenshot"></td>
+    <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/GIF/TroopBattler.gif" width="100%" alt="Troop Battler screenshot"></td>
+    <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/GIF/IslandSurvival.gif" width="100%" alt="Island Survival screenshot"></td>
   </tr>
   <tr>
     <td width="50%" valign="top">A lane-based Roblox strategy game where you deploy troops into your chosen lane to defeat the enemy, and each round you pick a card whose perks help you but also strengthen your opponent.</td>
     <td width="50%" valign="top">A Roblox survival game set on an island, where you gather resources and fight off waves of zombies to make it through each day.</td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/herawisp/PIXEL-MINES-REPO"><img src="https://img.shields.io/badge/Documentation-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Documentation"></a></td>
-    <td width="50%"><a href="https://github.com/herawisp/BOOKIES-REPO"><img src="https://img.shields.io/badge/Documentation-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Documentation"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://YOUR-USERNAME.itch.io/pixel-mines"><img src="https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play on itch.io"></a></td>
-    <td width="50%"><a href="https://YOUR-USERNAME.itch.io/bookies"><img src="https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play on itch.io"></a></td>
+    <td width="50%"><a href="https://www.roblox.com/games/YOUR-TROOP-BATTLER-ID"><img src="https://img.shields.io/badge/Play_on-Roblox-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Play on Roblox"></a></td>
+    <td width="50%"><a href="https://www.roblox.com/games/YOUR-ISLAND-SURVIVAL-ID"><img src="https://img.shields.io/badge/Play_on-Roblox-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Play on Roblox"></a></td>
   </tr>
 </table>
