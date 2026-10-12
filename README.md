@@ -61,21 +61,21 @@ As a Computer Science undergraduate at BINUS University specializing in Game Dev
   </tr>
   <tr>
     <td align="center"><b>Running Out Of Time</b></td>
-    <td>Short description of the game, with a <b>bold highlight</b> for the key feature.</td>
+    <td>A serious game exploring time-management challenges, built for GEMASTIK 2026.</td>
     <td align="center"><a href="https://github.com/herawisp/PROJECT-ONE"><img src="https://img.shields.io/badge/DOCUMENTATION-007BFF?style=for-the-badge" alt="Documentation"></a></td>
     <td align="center"><a href="https://YOUR-USERNAME.itch.io/project-one"><img src="https://img.shields.io/badge/PLAY_NOW-DC3545?style=for-the-badge" alt="Play Now"></a></td>
   </tr>
   <tr>
     <td align="center"><b>Wall of Doom</b></td>
-    <td>Simple <b>web project</b> built with HTML, CSS, and JavaScript.</td>
+    <td>A Hole in the Wall-style game where you race to slip through the gap in each oncoming wall before it knocks you off the platform.</td>
     <td align="center"><a href="https://github.com/herawisp/PROJECT-TWO"><img src="https://img.shields.io/badge/DOCUMENTATION-007BFF?style=for-the-badge" alt="Documentation"></a></td>
     <td align="center"><a href="https://herawisp.github.io/PROJECT-TWO"><img src="https://img.shields.io/badge/PLAY_NOW-DC3545?style=for-the-badge" alt="Play Now"></a></td>
   </tr>
   <tr>
     <td align="center"><b>Hop Till You Drop</b></td>
-    <td>Inventory and item management system with <b>database integration</b>.</td>
+    <td>An arcade dodging game where you leap left or right to avoid a constant barrage of incoming asteroids and survive as long as you can.</td>
     <td align="center"><a href="https://github.com/herawisp/PROJECT-THREE"><img src="https://img.shields.io/badge/DOCUMENTATION-007BFF?style=for-the-badge" alt="Documentation"></a></td>
-    <td align="center"></td>
+    <td align="center"><a href="https://herawisp.github.io/PROJECT-TWO"><img src="https://img.shields.io/badge/PLAY_NOW-DC3545?style=for-the-badge" alt="Play Now"></a></td>
   </tr>
 </table>
 <br><br>
@@ -111,12 +111,7 @@ As a Computer Science undergraduate at BINUS University specializing in Game Dev
   </tr>
   <tr>
     <td align="center"><b>Mad Shooter</b></td>
-    <td>Short description of the game, with a <b>bold highlight</b> for the key feature.</td>
+    <td>A Vampire Survivors-style Roblox game made for a one-touch game jam, where you move opposite to your aim while fending off swarms of enemies and picking an upgrade every time you level up.</td>
     <td align="center"><a href="https://www.roblox.com/games/YOUR-MAD-SHOOTER-ID"><img src="https://img.shields.io/badge/Play_on-Roblox-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Play on Roblox"></a></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Egg Defender</b></td>
-    <td>Short description of the game, with a <b>bold highlight</b> for the key feature.</td>
-    <td align="center"><a href="https://www.roblox.com/games/YOUR-EGG-DEFENDER-ID"><img src="https://img.shields.io/badge/Play_on-Roblox-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Play on Roblox"></a></td>
   </tr>
 </table>
