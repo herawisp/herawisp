@@ -106,7 +106,7 @@ As a Computer Science undergraduate at BINUS University specializing in Game Dev
 <table width="100%">
   <tr>
     <th width="20%">Project</th>
-    <th width="60%">Description<img src="https://raw.githubusercontent.com/herawisp/herawisp/main/ArtStrip/spacer.png" width="2000" height="1" alt=""></th>
+    <th width="60%"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/ArtStrip/spacer.png" width="2000" height="1" align="right" alt="">Description</th>
     <th width="20%">Roblox</th>
   </tr>
   <tr>
