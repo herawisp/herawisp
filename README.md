@@ -50,6 +50,14 @@ As a Computer Science undergraduate at BINUS University specializing in Game Dev
   </tr>
 </table>
 
+## 📂 Other Project
+
+| Project | Tools / Language | Description | Date | Repository |
+| :---: | :---: | --- | :---: | :---: |
+| **Project One** | <img src="https://img.shields.io/badge/UNITY-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"> | Short description of the game, with a **bold highlight** for the key feature. | 27 Aug 2025 | <a href="https://github.com/herawisp/PROJECT-ONE"><img src="https://img.shields.io/badge/DOCUMENTATION-007BFF?style=for-the-badge" alt="Documentation"></a><br><a href="https://YOUR-USERNAME.itch.io/project-one"><img src="https://img.shields.io/badge/PLAY_NOW-DC3545?style=for-the-badge" alt="Play Now"></a> |
+| **Project Two** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> | Simple **web project** built with HTML, CSS, and JavaScript. | 26 Aug 2025 | <a href="https://github.com/herawisp/PROJECT-TWO"><img src="https://img.shields.io/badge/DOCUMENTATION-007BFF?style=for-the-badge" alt="Documentation"></a><br><a href="https://herawisp.github.io/PROJECT-TWO"><img src="https://img.shields.io/badge/PLAY_NOW-DC3545?style=for-the-badge" alt="Play Now"></a> |
+| **Project Three** | <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> | Inventory and item management system with **database integration**. | 23 Dec 2024 | <a href="https://github.com/herawisp/PROJECT-THREE"><img src="https://img.shields.io/badge/DOCUMENTATION-007BFF?style=for-the-badge" alt="Documentation"></a> |
+
 <br><br>
 
 <img src="https://raw.githubusercontent.com/herawisp/herawisp/main/ArtStrip/RobloxProjectsBannerBouncy.gif" width="100%" alt="My Unity Games"> 
