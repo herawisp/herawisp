@@ -33,7 +33,7 @@ As a Computer Science undergraduate at BINUS University specializing in Game Dev
     <th width="50%">Gecko Of All Time</th>
   </tr>
   <tr>
-    <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/GIF/FlyingButter.gif" width="100%" alt="Flying Butter screenshot"></td>
+    <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/GIF/FlyingButterNew.gif" width="100%" alt="Flying Butter screenshot"></td>
     <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/GIF/GeckoOfAllTime.gif" width="100%" alt="Gecko Of All Time screenshot"></td>
   </tr>
   <tr>
