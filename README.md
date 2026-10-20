@@ -48,7 +48,7 @@
   </tr>
 </table>
 
-<h2>📂 Other Unity Projects</h2>
+<h2>📂 Other Projects</h2>
 
 <table width="100%">
   <tr>
