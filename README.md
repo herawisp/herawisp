@@ -15,7 +15,7 @@ As a Computer Science undergraduate at BINUS University specializing in Game Dev
   </tr>
   <tr>
     <td width="50%" valign="top">A 2D procedurally generated cave exploration and mining game built in Unity. Sole programmer and artist, handled everything from the procedural generation to character animations.</td>
-    <td width="50%" valign="top">BOO!KIES is a 2D pixel-art incremental game where you shoot cookies to turn them into B00!KIES for hungry ghosts to eat, earning B00! Coins to buy upgrades and unlock new cookie variants.</td>
+    <td width="50%" valign="top">B00!KIES is a 2D pixel-art incremental game where you shoot cookies to turn them into B00!KIES for hungry ghosts to eat, earning B00! Coins to buy upgrades and unlock new cookie variants.</td>
   </tr>
   <tr>
     <td width="50%"><a href="https://github.com/herawisp/pixel-mines"><img src="https://img.shields.io/badge/Documentation-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Documentation"></a></td>
