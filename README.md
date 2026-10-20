@@ -66,37 +66,15 @@
     <td>An arcade dodging game where you leap left or right to avoid a constant barrage of incoming asteroids and survive as long as you can.</td>
     <td align="center"><a href="https://herawisp.itch.io/hop-till-you-drop"><img src="https://img.shields.io/badge/PLAY_NOW-DC3545?style=for-the-badge" alt="Play Now"></a></td>
   </tr>
-</table>
-<br><br>
-
-<img src="https://raw.githubusercontent.com/herawisp/herawisp/main/ArtStrip/RobloxProjectsBannerBouncy.gif" width="100%" alt="My Unity Games"> 
-
-<table width="100%">
   <tr>
-    <th width="50%">Troop Battler</th>
-    <th width="50%">Island Survival</th>
+    <td align="center"><b>Troop Battler</b></td>
+    <td>A lane-based Roblox strategy game where you deploy troops into your chosen lane to defeat the enemy, and each round you pick a card whose perks help you but also strengthen your opponent.</td>
+    <td align="center"><a href="https://www.roblox.com/games/YOUR-TROOP-BATTLER-ID"><img src="https://img.shields.io/badge/Play_on-Roblox-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Play on Roblox"></a></td>
   </tr>
   <tr>
-    <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/GIF/TroopBattler.gif" width="100%" alt="Troop Battler screenshot"></td>
-    <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/GIF/IslandSurvival.gif" width="100%" alt="Island Survival screenshot"></td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">A lane-based Roblox strategy game where you deploy troops into your chosen lane to defeat the enemy, and each round you pick a card whose perks help you but also strengthen your opponent.</td>
-    <td width="50%" valign="top">A Roblox survival game set on an island, where you gather resources and fight off waves of zombies to make it through each day.</td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://www.roblox.com/games/YOUR-TROOP-BATTLER-ID"><img src="https://img.shields.io/badge/Play_on-Roblox-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Play on Roblox"></a></td>
-    <td width="50%"><a href="https://www.roblox.com/games/YOUR-ISLAND-SURVIVAL-ID"><img src="https://img.shields.io/badge/Play_on-Roblox-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Play on Roblox"></a></td>
-  </tr>
-</table>
-
-<h2>📂 Other Roblox Projects</h2>
-
-<table width="100%">
-  <tr>
-    <th width="20%">Project</th>
-    <th width="60%"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/ArtStrip/spacer.png" width="2000" height="1" align="right" alt="">Description</th>
-    <th width="20%">Roblox</th>
+    <td align="center"><b>Island Survival</b></td>
+    <td>A Roblox survival game set on an island, where you gather resources and fight off waves of zombies to make it through each day.</td>
+    <td align="center"><a href="https://www.roblox.com/games/YOUR-ISLAND-SURVIVAL-ID"><img src="https://img.shields.io/badge/Play_on-Roblox-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Play on Roblox"></a></td>
   </tr>
   <tr>
     <td align="center"><b>Mad Shooter</b></td>
@@ -104,3 +82,4 @@
     <td align="center"><a href="https://www.roblox.com/games/YOUR-MAD-SHOOTER-ID"><img src="https://img.shields.io/badge/Play_on-Roblox-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Play on Roblox"></a></td>
   </tr>
 </table>
+<br><br>
