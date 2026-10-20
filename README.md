@@ -34,7 +34,7 @@ As a Computer Science undergraduate at BINUS University specializing in Game Dev
   </tr>
   <tr>
     <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/GIF/FlyingButterNew.gif" width="100%" alt="Flying Butter screenshot"></td>
-    <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/GIF/GeckoOfAllTime.gif" width="100%" alt="Gecko Of All Time screenshot"></td>
+    <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/GIF/Final/GeckoOfAllTime_Polished.gif" width="100%" alt="Gecko Of All Time screenshot"></td>
   </tr>
   <tr>
     <td width="50%" valign="top">A 2D pixel-art auto-battler dungeon crawler built in Unity, where you clear procedurally regenerated floors and gamble for card packs to build a team of butterflies with synergistic abilities.</td>
