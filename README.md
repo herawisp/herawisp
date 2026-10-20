@@ -10,7 +10,7 @@ As a Computer Science undergraduate at BINUS University specializing in Game Dev
     <th width="50%">B00!KIES</th>
   </tr>
   <tr>
-    <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/GIF/PixelMines_LowQuality.gif" width="100%" alt="Pixel Mines screenshot"></td>
+    <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/GIF/Final/PixelMines_Polished.gif" width="100%" alt="Pixel Mines screenshot"></td>
     <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/GIF/B00!KIES_LowQuality.gif" width="100%" alt="B00!KIES screenshot"></td>
   </tr>
   <tr>
@@ -33,7 +33,7 @@ As a Computer Science undergraduate at BINUS University specializing in Game Dev
     <th width="50%">Gecko Of All Time</th>
   </tr>
   <tr>
-    <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/GIF/FlyingButterNew.gif" width="100%" alt="Flying Butter screenshot"></td>
+    <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/GIF/Final/FlyingButter_Polished.gif" width="100%" alt="Flying Butter screenshot"></td>
     <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/GIF/Final/GeckoOfAllTime_Polished.gif" width="100%" alt="Gecko Of All Time screenshot"></td>
   </tr>
   <tr>
