@@ -16,12 +16,12 @@
     <td width="50%" valign="top">B00!KIES is a 2D pixel-art incremental game where you shoot cookies to turn them into B00!KIES for hungry ghosts to eat, earning B00! Coins to buy upgrades and unlock new cookie variants.</td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/herawisp/pixel-mines"><img src="https://img.shields.io/badge/Documentation-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Documentation"></a></td>
+    <td width="50%"><a href="https://github.com/jvn-tix/GeckoOfAllTime"><img src="https://img.shields.io/badge/Documentation-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Documentation"></a></td>
     <td width="50%"><a href="https://github.com/herawisp/B00KIES"><img src="https://img.shields.io/badge/Documentation-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Documentation"></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://herawisp.itch.io/bookies"><img src="https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play on itch.io"></a></td>
     <td width="50%"><a href="https://exaltedartix.itch.io/gecko-of-all-time"><img src="https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play on itch.io"></a></td>
+    <td width="50%"><a href="https://herawisp.itch.io/bookies"><img src="https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play on itch.io"></a></td>
   </tr>
 </table>
 
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td width="50%"><a href="https://github.com/herawisp/boid-attack"><img src="https://img.shields.io/badge/Documentation-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Documentation"></a></td>
-    <td width="50%"><a href="https://github.com/jvn-tix/GeckoOfAllTime"><img src="https://img.shields.io/badge/Documentation-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Documentation"></a></td>
+    <td width="50%"><a href="https://github.com/herawisp/pixel-mines"><img src="https://img.shields.io/badge/Documentation-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Documentation"></a></td>
   </tr>
   <tr>
     <td width="50%"><a href="https://herawisp.itch.io/flying-butter"><img src="https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play on itch.io"></a></td>
