@@ -8,7 +8,7 @@
     <th width="50%">B00!KIES</th>
   </tr>
   <tr>
-    <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/GIF/Final/PixelMines_Polished.gif" width="100%" alt="Pixel Mines screenshot"></td>
+    <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/GIF/Final/GeckoOfAllTime_Polished.gif" width="100%" alt="Gecko Of All Time screenshot"></td>
     <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/GIF/B00!KIES_LowQuality.gif" width="100%" alt="B00!KIES screenshot"></td>
   </tr>
   <tr>
@@ -20,8 +20,8 @@
     <td width="50%"><a href="https://github.com/herawisp/B00KIES"><img src="https://img.shields.io/badge/Documentation-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Documentation"></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://herawisp.itch.io/pixel-mines"><img src="https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play on itch.io"></a></td>
     <td width="50%"><a href="https://herawisp.itch.io/bookies"><img src="https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play on itch.io"></a></td>
+    <td width="50%"><a href="https://exaltedartix.itch.io/gecko-of-all-time"><img src="https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play on itch.io"></a></td>
   </tr>
 </table>
 
@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/GIF/Final/FlyingButter_Polished.gif" width="100%" alt="Flying Butter screenshot"></td>
-    <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/GIF/Final/GeckoOfAllTime_Polished.gif" width="100%" alt="Gecko Of All Time screenshot"></td>
+    <td width="50%" valign="top"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/GIF/Final/PixelMines_Polished.gif" width="100%" alt="Pixel Mines screenshot"></td>
   </tr>
   <tr>
     <td width="50%" valign="top">A 2D pixel-art auto-battler dungeon crawler built in Unity, where you clear procedurally regenerated floors and gamble for card packs to build a team of butterflies with synergistic abilities.</td>
@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td width="50%"><a href="https://herawisp.itch.io/flying-butter"><img src="https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play on itch.io"></a></td>
-    <td width="50%"><a href="https://exaltedartix.itch.io/gecko-of-all-time"><img src="https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play on itch.io"></a></td>
+    <td width="50%"><a href="https://herawisp.itch.io/pixel-mines"><img src="https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play on itch.io"></a></td>
   </tr>
 </table>
 
