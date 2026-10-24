@@ -22,6 +22,7 @@
   <tr>
     <td width="50%"><a href="https://exaltedartix.itch.io/gecko-of-all-time"><img src="https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play on itch.io"></a></td>
     <td width="50%"><a href="https://herawisp.itch.io/bookies"><img src="https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play on itch.io"></a></td>
+    <td width="50%"><a href="https://herawisp.itch.io/bookies"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/Button/itchio_icon_button.gif" alt="Documentation"></a></td>
   </tr>
 </table>
 
