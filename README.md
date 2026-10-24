@@ -1,5 +1,3 @@
-
-
 <img src="https://raw.githubusercontent.com/herawisp/herawisp/main/ArtStrip/UnityProjectsBannerBouncy.gif" width="100%" alt="My Unity Games">
 
 <table width="100%">
@@ -16,12 +14,12 @@
     <td width="50%" valign="top">B00!KIES is a 2D pixel-art incremental game where you shoot cookies to turn them into B00!KIES for hungry ghosts to eat, earning B00! Coins to buy upgrades and unlock new cookie variants.</td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/jvn-tix/GeckoOfAllTime"><img src="https://img.shields.io/badge/Documentation-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Documentation"></a></td>
+    <td width="50%"><a href="https://github.com/jvn-tix/GeckoOfAllTime"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/Button/github_icon_button.gif" alt="Documentation"></a></td>
     <td width="50%"><a href="https://github.com/herawisp/B00KIES"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/Button/github_icon_button.gif" alt="Documentation"></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://exaltedartix.itch.io/gecko-of-all-time"><img src="https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play on itch.io"></a></td>
-    <td width="50%"><a href="https://herawisp.itch.io/bookies"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/Button/itchio_icon_button.gif" alt="Documentation"></a></td>
+    <td width="50%"><a href="https://exaltedartix.itch.io/gecko-of-all-time"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/Button/itchio_icon_button.gif" alt="Play on itch.io"></a></td>
+    <td width="50%"><a href="https://herawisp.itch.io/bookies"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/Button/itchio_icon_button.gif" alt="Play on itch.io"></a></td>
   </tr>
 </table>
 
@@ -39,12 +37,12 @@
     <td width="50%" valign="top">A 2D procedurally generated cave exploration and mining game built in Unity. Sole programmer and artist, handled everything from the procedural generation to character animations.</td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/herawisp/boid-attack"><img src="https://img.shields.io/badge/Documentation-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Documentation"></a></td>
-    <td width="50%"><a href="https://github.com/herawisp/pixel-mines"><img src="https://img.shields.io/badge/Documentation-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Documentation"></a></td>
+    <td width="50%"><a href="https://github.com/herawisp/boid-attack"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/Button/github_icon_button.gif" alt="Documentation"></a></td>
+    <td width="50%"><a href="https://github.com/herawisp/pixel-mines"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/Button/github_icon_button.gif" alt="Documentation"></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://herawisp.itch.io/flying-butter"><img src="https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play on itch.io"></a></td>
-    <td width="50%"><a href="https://herawisp.itch.io/pixel-mines"><img src="https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play on itch.io"></a></td>
+    <td width="50%"><a href="https://herawisp.itch.io/flying-butter"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/Button/itchio_icon_button.gif" alt="Play on itch.io"></a></td>
+    <td width="50%"><a href="https://herawisp.itch.io/pixel-mines"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/Button/itchio_icon_button.gif" alt="Play on itch.io"></a></td>
   </tr>
 </table>
 
@@ -59,12 +57,12 @@
   <tr>
     <td align="center"><b>Wall of Doom</b></td>
     <td>A Hole in the Wall-style game where you race to slip through the gap in each oncoming wall before it knocks you off the platform.</td>
-    <td align="center"><a href="https://herawisp.itch.io/wall-of-doom"><img src="https://img.shields.io/badge/PLAY_NOW-DC3545?style=for-the-badge" alt="Play Now"></a></td>
+    <td align="center"><a href="https://herawisp.itch.io/wall-of-doom"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/Button/itchio_icon_button.gif" alt="Play on itch.io"></a></td>
   </tr>
   <tr>
     <td align="center"><b>Hop Till You Drop</b></td>
     <td>An arcade dodging game where you leap left or right to avoid a constant barrage of incoming asteroids and survive as long as you can.</td>
-    <td align="center"><a href="https://herawisp.itch.io/hop-till-you-drop"><img src="https://img.shields.io/badge/PLAY_NOW-DC3545?style=for-the-badge" alt="Play Now"></a></td>
+    <td align="center"><a href="https://herawisp.itch.io/hop-till-you-drop"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/Button/itchio_icon_button.gif" alt="Play on itch.io"></a></td>
   </tr>
   <tr>
     <td align="center"><b>Troop Battler</b></td>
