@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td width="50%"><a href="https://github.com/jvn-tix/GeckoOfAllTime"><img src="https://img.shields.io/badge/Documentation-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Documentation"></a></td>
-    <td width="50%"><a href="https://github.com/herawisp/B00KIES"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/Button/github_icon_button.png" width="50" alt="Documentation"></a></td>
+    <td width="50%"><a href="https://github.com/herawisp/B00KIES"><img src="https://raw.githubusercontent.com/herawisp/herawisp/main/Button/github_icon_button.png" width="25" alt="Documentation"></a></td>
   </tr>
   <tr>
     <td width="50%"><a href="https://exaltedartix.itch.io/gecko-of-all-time"><img src="https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play on itch.io"></a></td>
